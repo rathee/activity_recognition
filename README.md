@@ -43,3 +43,5 @@ epoch and batch size. It is showing how values are varying with each batch.
                 or in general case
         python test.py test_feature_file_path test_output_path
 
+* This project is getting 95.38% accuracy on the test set.
+
