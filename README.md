@@ -36,7 +36,7 @@ Steps to follow :
 epoch and batch size. It is showing how values are varying with each batch.
     p.s. : total values for graph representation are : num_epoches * number_of_batches_each_epoch
 
-* Go to Graphs section to check the RNN network with each component. Go to each section and expand by pressing +
+* Go to Graphs section to check the RNN network with each component. Go to each section and expand by pressing "+".
 
 * To test on a new file, use below command :
         python test.py ../data/UCI\ HAR\ Dataset/test/X_test.txt ../data/UCI\ HAR\ Dataset/test/y_test.txt
