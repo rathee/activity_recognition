@@ -3,7 +3,7 @@ Project structure :<br />
 
 activity_recognition    |<br />
                         | - src |<br />
-                                | - my_lstm.py<br />
+                        | - my_lstm.py<br />
                                 | - test.py<br />
                         | - data    |<br />
                                     | - UCI HAR Dataset<br />
