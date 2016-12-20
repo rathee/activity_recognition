@@ -8,6 +8,7 @@ activity_recognition    |
                         | - data    |
                                     | - UCI HAR Dataset
                                     | - download_data.py
+                        | - logs
 
 
 Requirement :
