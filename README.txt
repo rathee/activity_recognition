@@ -33,8 +33,7 @@ Steps to follow :
 * After above command go to web browser and type : 
         localhost:6006  
 
-* Above command will show the tensorboard UI. Go to Events folder to check the accuracy and loss graph with respect to
-epoch and batch size. It is showing how values are varying with each batch.  
+* Above command will show the tensorboard UI. Go to Events folder to check the accuracy and loss graph with respect to epoch and batch size. It is showing how values are varying with each batch.
     p.s. : total values for graph representation are : num_epoches * number_of_batches_each_epoch  
 
 * Go to Graphs section to check the RNN network with each component. Go to each section and expand by pressing "+". 
